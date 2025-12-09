@@ -1,6 +1,6 @@
 This is created by Antony Fung, as known as Mathematician in the epic rpg community, to generate info for those who want to estimate how many eternal flames they need.
 
-_.jinwoo._'s helper bot's enchanting module uses the code here.
+_.jinwoo._'s Lazy Assistant helper bot's enchanting module uses the code here.
 
 The code uses Markov chain. It will be hard for you to understand the code if you don't know what that is.
 There are two functions defined in the code: "info" and "chance".
